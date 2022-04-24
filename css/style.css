@@ -1,0 +1,98 @@
+body{
+
+	background: #d9fff7;
+}
+
+
+.linkha{
+	color: green;
+}
+
+.linkha:hover{
+	color: red;
+}
+
+.princitext{
+	text-align: center;
+}
+
+table{
+	margin: auto;
+}
+
+.tgit{
+	font-size: 17pt;
+}
+
+.content{
+	padding:10px 15px;
+
+}
+
+.ccont{
+	/*padding:0px 10px;*/
+	background:rgba(128, 128, 128, 0.39);
+	border-radius:20px;
+	box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.589);
+	/*border:groove 2px gray;*/
+	backdrop-filter:blur(100px);
+
+}
+
+.ct{
+	background:white;
+	border-radius: 20px 20px 0px 0px;
+	padding: 0px 15px;
+	margin:0px;
+}
+
+.ic{
+	padding: 5px 30px;
+	border: solid 2px white;
+	
+}
+
+h3{
+	background:rgb(107, 107, 107);
+	margin:0px;
+	border-radius: 20px 5px 0px 0px;
+	padding: 0px 15px;
+	text-align:center;
+	color:white;
+}
+
+.c1{
+	background:limegreen;
+
+}
+
+.c2{
+	background:yellow;
+	clear:both;
+}
+
+.c1,.c2{
+	padding:20px 40px;
+	border-radius:0px 0px 20px 5px;
+	overflow: hidden;
+	border: 2px solid #6B6B6B;
+}
+
+.cp{
+	margin: 20px 0px;
+}
+
+.tblt1{
+	float:left;
+	max-width:600px;
+	
+}
+.tblt2{
+	float:right;
+	text-align:right;
+	
+}
+
+source,picture,img{
+	border-radius: 15px 7px 15px 7px;
+}
